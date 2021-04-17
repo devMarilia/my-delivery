@@ -4,6 +4,12 @@
 
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
+### dependências 
+yarn add @material-ui/core
+yarn add @material-ui/icons
+npm install --save react-swipeable-views
+
+
 ## Ícones para commits padrão
 
 - :package: nova funcionalidade
