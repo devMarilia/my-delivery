@@ -1,8 +1,10 @@
 <h1 align="center">My Delivery</h1>
-
+<p align="center">Inicial Home</p>
 <p align="center"><img src="https://media.giphy.com/media/tGR4HDYrZdz7Fjc7Xx/giphy.gif"/></p>
-
+<p align="center">Tela Cardápio</p>
 <p align="center"><img src="https://media.giphy.com/media/eENaGOCEa4SdfjlcHZ/giphy.gif"/></p>
+<p align="center">Tela Faça seu pedido</p>
+<p align="center"><img src="https://media.giphy.com/media/PZO59BLYXsIwg0rb23/giphy.gif"/></p>
 
 
 <p><b>Em desenvolvimento...</b></p>
