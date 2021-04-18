@@ -1,6 +1,10 @@
 <h1 align="center">My Delivery</h1>
 
 <p align="center"><img src="https://media.giphy.com/media/tGR4HDYrZdz7Fjc7Xx/giphy.gif"/></p>
+
+<p align="center"><img src="https://media.giphy.com/media/eENaGOCEa4SdfjlcHZ/giphy.gif"/></p>
+
+
 <p><b>Em desenvolvimento...</b></p>
 
 <p align="center">Este projeto foi constuido para criar habilidades de desenvolvimento com a biblioteca  <a href="https://pt-br.reactjs.org/">🔗 React</a></p>
