@@ -1,11 +1,15 @@
 import React from 'react'
 import Footer from '../Footer'
+import Banner from '../Banner'
+import CardFood from '../Card'
 
 function Cardapio() {
     return (
-        <div>
+        <>
+            <Banner/>
+            <CardFood/>
             <Footer/>
-        </div>
+        </>
     )
 }
 

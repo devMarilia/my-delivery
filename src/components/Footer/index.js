@@ -1,9 +1,7 @@
 import React from 'react';
 import {
   FaInstagram,
-  FaYoutube,
-  FaTwitter,
-  FaLinkedin,
+   FaLinkedin,
   FaWhatsapp,
   FaGithub,
   FaMailBulk
@@ -35,7 +33,7 @@ function Footer() {
             </SocialLogo>           
            
             <SidebarMenu>
-              <Link to='/Home'>
+              <Link to='/'>
                 <SidebarLink>Home</SidebarLink>
                 </Link>
                 <Link to='/Cardapio'>
