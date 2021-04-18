@@ -1,19 +1,15 @@
 import React from 'react'
-
-import Header from '../src/components/Header'
-import Footer from './components/Footer';
 import './App.css';
+import Routes from "../src/routes"
+import history from "../src/Services/history"
+import {BrowserRouter as Router} from 'react-router-dom'
 
-
-function App() {
+export default function App() {
   return (
-    <>
-
-        <Header/>
-        <Footer/>
- 
+    <>  
+      <Router history={history}>
+            <Routes/>
+      </Router>
     </>
-  );
+  )
 }
-
-export default App;
