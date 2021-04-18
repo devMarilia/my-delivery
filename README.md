@@ -1,16 +1,19 @@
-<h1 align="center">My Develivery</h1>
+<h1 align="center">My Delivery</h1>
+
+<p align="center"><img src="https://media.giphy.com/media/tGR4HDYrZdz7Fjc7Xx/giphy.gif"/></p>
+<p><b>Em desenvolvimento...</b></p>
 
 <p align="center">Este projeto foi constuido para criar habilidades de desenvolvimento com a biblioteca  <a href="https://pt-br.reactjs.org/">🔗 React</a></p>
 
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p><br>
 
-### dependências 
+### Dependências 
 yarn add @material-ui/core
 yarn add @material-ui/icons
 npm install --save react-swipeable-views
 
 
-## Ícones para commits padrão
+### Ícones para commits padrão
 
 - :package: nova funcionalidade
 - :up: atualização
