@@ -1,0 +1,15 @@
+html {
+    background-color: #000;
+  } 
+  
+  .fade-enter {
+    /* opacity: 0; */
+    transform: translateY(-100vh);
+    z-index: 1;
+  }
+  
+  .fade-enter.fade-enter-active {
+    /* opacity: 1; */
+    transform: translateY(0vh);
+    transition: transform 500ms ease-in;
+  }

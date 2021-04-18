@@ -21,7 +21,7 @@ import {
 } from './FooterElements';
 
 import logo from '../../images/logo.jpeg'
-
+import {Link} from 'react-router-dom'
 
 function Footer() {
   return (
@@ -35,9 +35,15 @@ function Footer() {
             </SocialLogo>           
            
             <SidebarMenu>
-                <SidebarLink to='/'>Cardápio</SidebarLink>
-                <SidebarLink to='/'>Faça seu pedido</SidebarLink>
-                <SidebarLink to='/'>Contato</SidebarLink>
+              <Link to='/Home'>
+                <SidebarLink>Home</SidebarLink>
+                </Link>
+                <Link to='/Cardapio'>
+                <SidebarLink >Cardápio</SidebarLink>
+                </Link>
+                <Link to='/Cadastro'>
+                <SidebarLink >Cadastro</SidebarLink>
+                </Link>
             </SidebarMenu>
             <SocialIcons>
             <SocialIconLink href='https://web.whatsapp.com/' target='_blank' aria-label='WhatsApp'>
