@@ -49,7 +49,7 @@ const useStyles = makeStyles((theme) => ({
 
   },
   img: {
-    height: "33rem",
+    height: "32rem",
     display: 'flex',
     overflow: 'hidden',
     width: '100%',

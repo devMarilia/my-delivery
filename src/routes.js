@@ -7,6 +7,7 @@ import "../src/Styles/animation.css"
 import Home from '../src/components/pages/Home'
 import Cadastro from '../src/components/pages/Cadastro'
 import Cardapio from '../src/components/pages/Cardapio'
+import Pedido from '../src/components/pages/Pedido'
 export default function Routes() {
     const location = useLocation();
     return ( 
@@ -16,6 +17,7 @@ export default function Routes() {
                 <Route path="/" exact component={Home} />
                 <Route path="/Cadastro" exact component={Cadastro} />
                 <Route path="/Cardapio" exact component={Cardapio} />
+                <Route path="/Pedido" exact component={Pedido} />
              </Switch>
         </CSSTransition>
     </TransitionGroup>
